@@ -1,0 +1,47 @@
+/* Responsive layout - makes a one column layout instead of a two-column layout */
+/* Toggle Button */
+/* .toggle
+{
+  position: fixed;
+  top: 0;
+  right:0;
+  width:30px;
+  height: 30px;
+  background:#3949ab url(../images/toggle.png);
+  background-size: 30px;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  z-index: 20;
+}
+.toggle.active
+{
+  background:#3949ab url(../images/toggle-active.png);;
+  position: fixed;
+  top: 0;
+  right:0;
+  width:30px;
+  height: 30px;
+  background-size: 30px;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  z-index: 20;
+} */
+
+#logo
+  {
+    width: 75px;
+  } 
+  header .nav
+  {
+    flex-direction: column;
+  }
+  .nav ul
+  {
+    padding: 10px;
+    background-color: rgba(0,0,0,0.1);
+  }
+
+#service-list
+{
+  width: 75px;
+} 
